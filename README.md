@@ -49,6 +49,6 @@
   <a href="https://www.facebook.com/priscila.maria.7509/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/31mdydgddqae4brsiqxhoxs5w46a?si=246bfbe845244391" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/priscila199/priscila199/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/priscila199/priscila199/blob/output/github-contribution-grid-snake.svg)
 
 </div>
